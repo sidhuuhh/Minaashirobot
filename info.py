@@ -19,7 +19,7 @@ def is_enabled(value, default):
 # Bot information
 SESSION = environ.get('SESSION', 'MinaashiroBot')
 API_ID = int(environ.get('API_ID', '24400986'))
-API_HASH = environ.get('API_HASH', '70071993273d3b320d4dfdd4aeca407')
+API_HASH = environ.get('API_HASH', '070071993273d3b320d4dfdd4aeca407')
 BOT_TOKEN = environ.get('BOT_TOKEN', "7090116931:AAFiJrFbGc8cUMg3vA8fO-BilhQc1M4EqSQ")
 
 # Bot settings
